@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.bbce227237a48495a8b8cf147f5f621e.js"
+  "/precache-manifest.ac2051992cc38724fa1a4a19883674bd.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "hip-kc"});
